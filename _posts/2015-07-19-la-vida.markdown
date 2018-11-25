@@ -1,0 +1,18 @@
+---
+layout: post
+title:  La vida
+date:   2015-07-19 12:32:20 +0300
+description: Poema
+img: bebe.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+Neixem  
+creixem  
+ens reproduïm  
+envellim  
+i morim  
+
+Les bones obres i l'amor  
+es perpetuaran  
+a través dels nostres descendents
