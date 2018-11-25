@@ -1,0 +1,14 @@
+---
+layout: post
+title: La llum
+date: 2013-07-01 13:32:20 +0300
+description: Poema
+img: carretera.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+Fugim de la llum  
+on la mosca borinera  
+ens exaspera  
+cap a les tenebres  
+on el llop ens espera
