@@ -1,0 +1,18 @@
+---
+layout: post
+title: En pols
+date: 2015-09-01 13:32:20 +0300
+description: Poema
+img: pedres.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+Les il·lusions i els desitjos de la infantesa  
+s'han convertit en fum.  
+
+El que val i perdura  
+és picar la pedra dura  
+i convertir-la en pols,
+
+perquè pols etss  
+i en pols et convertiràs.
