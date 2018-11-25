@@ -1,0 +1,21 @@
+---
+layout: post
+title: Amiga
+date: 2015-07-30 13:32:20 +0300
+description: Poema
+img: esperant.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+Amiga vine,  
+estic esperant la teva abraçada 
+que al sepulcre em portarà.  
+
+He jugat la partida de la vida;  
+crec que l'he guanyat:  
+He rigut, he plorat,  
+però, sobretot, he estimat.  
+
+Amiga, vine;  
+quan sigui l'hora, 
+t'estaré esperant.
