@@ -9,7 +9,9 @@ tags: [Poema]
 
 El virtuosisme  
 és un regal pels sentits  
+
 per a qui el practica  
 és un gran esforç i entrega,  
+
 músics pintors arquitectes, escriptors  
 gràcies! gràcies! gràcies!
