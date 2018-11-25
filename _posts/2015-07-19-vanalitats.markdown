@@ -18,5 +18,5 @@ temps per estimar,
 temps per servir,  
 temps per elevar-nos  
 
-i dedicar-nos a l'extraordinar i creatiu
+i dedicar-nos a l'extraordinari i creatiu
 
