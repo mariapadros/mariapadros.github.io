@@ -1,0 +1,18 @@
+---
+layout: post
+title:  El roure
+date:   2015-18-15 12:32:20 +0300
+description: Poema
+img: roure.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+_als meus 12 nets_  
+_vacances d'estiu_  
+
+Infants _voleiant_  
+pregunten i escolten.  
+
+Voldria ser com el roure gran del jardí  
+fort, imponent, protector  
+on els ocells es troben segurs.
