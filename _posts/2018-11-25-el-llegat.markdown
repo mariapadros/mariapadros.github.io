@@ -1,0 +1,14 @@
+---
+layout: post
+title:  El llegat
+date:   2018-11-25 12:32:20 +0300
+description: Poema
+img: elllegat.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+El meu llegat és res  
+Tot el que tinc de bo  
+o no tan bo  
+us ho deixo  
+fins a l'últim alè
