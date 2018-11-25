@@ -1,0 +1,11 @@
+---
+layout: post
+title: El Gos
+date: 2015-07-19 15:32:20 +0300
+description: Poema
+img: gos.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+Per què el gos és el millor amic de l'home,  
+i l'home no és el millor amic del gos?
