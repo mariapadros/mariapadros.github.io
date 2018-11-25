@@ -3,7 +3,7 @@ layout: post
 title:  El virtuosisme
 date:   2012-11-28 12:32:20 +0300
 description: Poema
-#img: elllegat.jpg # Add image post (optional)
+img: violi.jpg # Add image post (optional)
 tags: [Poema]
 ---
 
