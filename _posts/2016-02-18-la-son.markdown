@@ -1,0 +1,16 @@
+---
+layout: post
+title:  La Son
+date:   2016-02-18 14:32:20 +0300
+description: Poema de la son
+img: son.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+M'abraço i em moro  
+arraulida i perduda  
+dins l'immens univers infinit  
+la meva ment delirant  
+destila gotetes de felicitat  
+a dins meu, tot esperant  
+que arribi la son  
