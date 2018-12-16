@@ -1,0 +1,13 @@
+---
+layout: post
+title:  El vent
+date:   2016-03-21 14:32:20 +0300
+description: Poema del vent
+img: vent.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+Estic dreta, forta,  
+aguantant el fort vent de ponent  
+esperant els suasus vents elisis  
+que a la terra promesa se m'enduran.
