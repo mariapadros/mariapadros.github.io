@@ -1,0 +1,16 @@
+---
+layout: post
+title:  El Seny
+date:   2016-03-19 14:32:20 +0300
+description: Poema del seny 
+img: esquena.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+L'esquena diu: Seu!  
+El cap diu: Continua.  
+  
+Entrada la nit,  
+l'esquena li diu al cap:  
+¿No ets tu el seny?  
+amb un gran crit  
