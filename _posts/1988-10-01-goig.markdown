@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Goig
+date:   1988-10-01 12:32:20 +0300
+description: Poema
+img: canfeu.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+Quin goig he sentit  
+aquest migdia,  
+a contrallum,  
+davant la finestra,  
+els quatre fills junts.  

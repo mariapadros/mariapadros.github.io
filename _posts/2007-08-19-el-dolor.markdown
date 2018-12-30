@@ -1,0 +1,35 @@
+---
+layout: post
+title:  El dolor
+date:   2007-08-19 12:32:20 +0300
+description: Poema
+img: maria.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+El dolor s'esvaeix parlan-te.  
+Res interromp la conversa.  
+Quan la punxada fibla fort, et parlo,  
+i els mots més simples surten  
+del meu pensament cap a tu:  
+"Rosa, avui plou sota el cel gris;  
+la verdor del paisatge s'imposa;  
+el soroll del termomix l'acompanya.  
+Aviat la casa s'omplirà de vida  
+que menjarà macarrons.  
+
+Després tornarà el silenci i la punxada,  
+solsament un intsant, just tornaré a parlar amb tu.  
+
+Rosa, em diuen que faig mala cara   
+que estic massa prima,  
+que m'haig de cuidar.  
+
+Em miro al mirall.  
+Veig una àvia prima? Sí  
+Amb el cabell gris? Sí  
+Cansada? Sí  
+
+Però tots els sentits atents,
+em sento tan forta...  
+
