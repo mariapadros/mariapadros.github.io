@@ -1,22 +1,18 @@
 ---
 layout: post
-title:  La Muntanya
-date:   2018-10-27 13:32:20 +0300
-description: Poema de la muntanya
-img: muntanya.jpg # Add image post (optional)
+title:  Paradís
+date:  2015-08-01 13:32:20 +0300
+description: Poema
+img: radio.jpg # Add image post (optional)
 tags: [Poema]
 ---
 
-La muntanya quieta  
-Les boires es mouen  
-El vent les empeny  
-La tarda se'n va  
-El sol es va amagant  
-La gosseta s'acosta  
-i em llepa les mans.  
-  
-Els ocells volen esverats  
-L'aigua del rierol també es mou  
-La muntanya i jo, quiets espectadors  
-d'una tarda d'estiu qualsevol  
-i que es mou.
+Des del meu petit paradís familiar, paisatgístic, comfortable, escolto el meu petit transistor.  
+M'arriben terribles notícies que em trenquen el cor.
+
+
+Milions de nens que són maltractats en aquest món on visc jo, milers de refugiats que arrisquen  
+la vida per trobar un lloc millor per viure, que molts moren abans d'arribar, i els que hi arriben, ningú
+els vol.
+
+Avui en el meu feliç paradís els meus ulls 'omplen de llàgrimes, i en el meu petit transistor sonen alegres cançons.
