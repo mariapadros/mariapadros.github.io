@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Contes de fades
+date:  2015-10-04 13:32:20 +0300
+description: Poema
+img: ampolla_estrelles.jpg # Add image post (optional)
+tags: [Poema]
+---
+
+⊕ NEUROCIÈNCIA  
+
+
+⊖ CONTES DE FADES
